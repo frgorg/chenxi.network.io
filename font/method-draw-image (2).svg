@@ -1,0 +1,16 @@
+<svg width="70" height="20" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="22" width="72" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" transform="matrix(5.057043753324002,0,0,2.194248336352077,-62.27105842545312,55.010093621567194) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="6" id="svg_1" y="4.688369" x="20.024392" stroke-width="0" fill="#000000">16</text>
+  <text stroke="#000" transform="matrix(4.098901952301048,0,0,1.5766091911307,-37.80559797827175,-0.5426468211893669) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="6" id="svg_2" y="9.109375" x="11.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text style="cursor: text;" stroke="#000" transform="matrix(1.9991470469851034,0,0,2.0180719806026497,-34.508955280686266,-10.164568300320772) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="6" id="svg_3" y="12.109375" x="22.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">我的微信</text>
+ </g>
+</svg>
